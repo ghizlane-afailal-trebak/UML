@@ -1,0 +1,5 @@
+. Diagramme de Cas d'Utilisation 
+Rappel théorique :
+ Représente les interactions entre le système et les acteurs
+ Composé d'acteurs, de cas d'utilisation et de relations
+ Relations possibles : include, extend, généralisation
